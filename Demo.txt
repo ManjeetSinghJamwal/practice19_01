@@ -1,1 +1,17 @@
-this is my first git project
+This is my first git project
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+..
+The quick brown fox jumps upon right over a lazy dog.
+The quick brown foxj jumps upon right over a lazy dog.
+The quick brown fox jumps upon right over a laszy dog.
+The quick brown fox jumps upon right over a lazy dog.
